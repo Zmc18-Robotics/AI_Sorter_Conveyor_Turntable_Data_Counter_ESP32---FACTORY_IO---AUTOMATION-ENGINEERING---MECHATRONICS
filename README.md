@@ -3,7 +3,7 @@ Factory AI Sorting systems with turntable in Factory IO, and with Esp32 data cou
 
 ---
 
-## Industry + AI + IoT
+## Industrial + AI + IoT
 
 ---
 
