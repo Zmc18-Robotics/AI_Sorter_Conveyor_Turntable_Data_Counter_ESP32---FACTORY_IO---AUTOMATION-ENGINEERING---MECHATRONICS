@@ -69,4 +69,4 @@ and some decorations
 
 ---
 
-GO! GO1 GO! INDUSTRIAL AIOT❤️‍🔥
+GO! GO! GO! INDUSTRIAL AIOT!❤️‍🔥
