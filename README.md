@@ -44,7 +44,7 @@ Here we also can combo it with HTML, CSS, and JavaScript if you want it more adv
 
 Here the materials :
 
-Factory Hardware and Automation :
+Factory IO Hardware and Automation :
 - Belt Conveyor (6m) x6
 - Curved Belt Conveyor CW x1
 - Emitter x1
@@ -57,6 +57,13 @@ RL Hardware :
 - Esp32 x1
 - USB cable x1 ( For the communications )
 - LCD (16x2) I2C x1
+
+RL Hardware ( Brain of the systems only ) ( If this things all happened in IRL ) :
+- IPC ( Industrial PC )
+- PLC
+- Esp32 / Microcontrollers
+- Modbus TCP / IP Server
+- Cloud Storage
 
 and some decorations
 
