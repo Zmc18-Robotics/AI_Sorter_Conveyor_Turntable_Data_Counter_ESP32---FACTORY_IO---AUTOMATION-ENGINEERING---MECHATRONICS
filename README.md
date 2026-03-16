@@ -59,3 +59,7 @@ RL Hardware :
 - LCD (16x2) I2C x1
 
 and some decorations
+
+---
+
+GO! GO1 GO! INDUSTRIAL AIOT❤️‍🔥
