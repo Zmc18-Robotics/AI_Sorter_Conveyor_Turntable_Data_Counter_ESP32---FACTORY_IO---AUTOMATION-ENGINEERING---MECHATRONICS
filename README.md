@@ -65,6 +65,27 @@ RL Hardware ( Brain of the systems only ) ( If this things all happened in IRL )
 - Modbus TCP / IP Server
 - Cloud Storage
 
+
+RENCANA AI MEDICAL WASTE SORTING SYSTEMS HARDWARE :
+- ESP32 + Modul khusus ESP32 ( jadi tidak usah pakai breadboard untuk si ESP32 nya, karena pasti akan melibatkan banyak PIN, oleh karena itu disini kita juga menggunakan modul khusus yang memperbanyak pin GND / VCC ) x1 , ( pemakaian itu pasti karena sebagai otak ke 2 dari sistem )
+- LCD i2C 16x2 ( lengkap dengan i2C nya ) x1, ( pemakaian itu pasti )
+- Push button x8 , ( pemakaian kurang lebih 1 - 8 tombol )
+- Gass sensor ( Asap ) x1 ( sebagai pendeteksi asap )
+- Water Sensor / Raindrop Sensor x1 ( sebagai pendeteksi air )
+- Buzzer x1 ( sebagai sistem alarm atau notifikasi )
+- LED module / pin x16 ( pemakaian kurang lebih 1 - 16 led pin, karena sebagai sinyal nantinya, namun untuk penjagaan yang lain juga seperti LED terbakar atau semacamnya )
+- Resistor 220ohm x16 ( pemakaian kurang lebih 1 - 16, untuk LED pin, namun untuk penjagaan yang lain juga seperti resistor terbakar atau semacamnya )
+- Breadboard besar x2 ( pemakaian kurang lebih 1, namun dikhawatirkan pemakaian / ruang sempit, maka 2 untuk jaga jaga )
+- Kabel Jumper ( Female to Male, Male to Male, Female to Female ) x? ( kurang lebih akan banyak karena pin, jaid kita tidak tahu pasti )
+- Kabel USB ( untuk up code ke Esp32 ) x1 ( ini penting, karena untuk koneksi Esp32 ke IPC ( komputer ))
+- Flame Sensor x1 ( sebagai pendeteksi api )
+- Lem tembak x1 dan isinya x5 ( perkiraan butuh 2 - 5 isi tembaknya, karena kita tidak bisa menebak untuk berapa banyak yang akan dipakai )
+- Stick eskrim x4 pack ( untuk casing jika produk sudah jadi )( 1 - 4 pack )
+- Filamen PLA ( 3D pen ) x25 meter masing masing ( untuk casing lebih baik jika produk sudah jadi )( warna putih, biru, dan abu abu )( perkiraan 5 -25 meter per warna, kita tidak tahu akan memakai berapa banyak, karena akan menyesuaikan total dari semuanya nanti )
+- 3D pen x1 ( alat pembuat casingnya )
+- Timah solder x1 ( jika diperlukan ) ( perkiraan sedikit, namun kita tetap butuh karena mungkin kita nanti akan menyolder beberapa komponen tertentu )
+- Header pin x1 ( jika diperlukan )( penjagaan untuk komponen yang pinnya tidak ada dan THT )
+
 and some decorations
 
 ---
